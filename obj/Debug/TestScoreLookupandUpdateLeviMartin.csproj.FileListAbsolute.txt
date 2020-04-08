@@ -1,0 +1,18 @@
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\bin\Debug\TestScoreLookupandUpdateLeviMartin.exe.config
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\bin\Debug\TestScoreLookupandUpdateLeviMartin.exe
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\bin\Debug\TestScoreLookupandUpdateLeviMartin.pdb
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.Form1.resources
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.Properties.Resources.resources
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.csproj.GenerateResource.cache
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.exe
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.pdb
+C:\Users\lcmar\Desktop\C#\Online Work\TestScoreLookupandUpdateLeviMartin\obj\Debug\TestScoreLookupandUpdateLeviMartin.csprojAssemblyReference.cache
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\bin\Debug\TestScoreLookupandUpdateLeviMartin.exe.config
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\bin\Debug\TestScoreLookupandUpdateLeviMartin.exe
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\bin\Debug\TestScoreLookupandUpdateLeviMartin.pdb
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.csprojAssemblyReference.cache
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.Form1.resources
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.Properties.Resources.resources
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.csproj.GenerateResource.cache
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.exe
+C:\Users\lcmar\Desktop\C#\Online Work\zippedfiles\TestScoreLookupandUpdateLeviMartin - Copy\TestScoreLookupandUpdateLeviMartin - Copy\obj\Debug\TestScoreLookupandUpdateLeviMartin.pdb
